@@ -24,6 +24,8 @@ Fair Market Rents (FMRs) are estimates produced annually by the U.S. Department 
 
 This project ingests HUD FMR data via API, structures it through a bronze–silver–gold lakehouse, and produces analytics-ready datasets. Instead of focusing on household income or eviction outcomes, it examines **variation in rental benchmarks across unit types and metropolitan areas** as a measure of rental market pressure.
 
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/78371952-09cc-4ebe-8887-18f002cef87a" />
+
 ---
 
 ## Research Focus
@@ -62,6 +64,7 @@ This highlights where rental market pressure is most pronounced.
 
 <img width="714" height="462" alt="Screenshot 2026-01-06 at 1 57 23 AM" src="https://github.com/user-attachments/assets/0b639dd4-d803-4b09-b517-a8a65faa8432" />
 
+<img width="714" height="462" alt="High Rent Pressure Metros (Above 75th Percentile FMR)" src="https://github.com/user-attachments/assets/7df650c1-dcf7-4aa3-82ae-98c6048b98a8" />
 
 **Interpretation:** Rental cost variability alone, before considering income, signals differences in housing pressure across unit types and metros.
 
