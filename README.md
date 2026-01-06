@@ -66,6 +66,9 @@ This highlights where rental market pressure is most pronounced.
 
 Listing metropolitan areas with the highest 2-bedroom FMRs helps identify markets where benchmark rents are most elevated. For example, metros in high-cost regions appear in the upper tail of the distribution.
 
+<img width="759" height="456" alt="Screenshot 2026-01-06 at 3 42 25 AM" src="https://github.com/user-attachments/assets/f4139812-2b63-414e-8172-c63c696eafb8" />
+
+
 ---
 
 ### 3. **State-Level Average FMRs**
