@@ -58,6 +58,8 @@ A  plot showing distributions of FMR values by bedroom count reveals:
 - Variability grows with larger units
 This highlights where rental market pressure is most pronounced.
 
+<img width="410" height="242" alt="Screenshot 2026-01-06 at 1 57 35 AM" src="https://github.com/user-attachments/assets/426650e3-c434-4497-bc49-3bc8fe409f61" />
+
 <img width="714" height="462" alt="Screenshot 2026-01-06 at 1 57 23 AM" src="https://github.com/user-attachments/assets/0b639dd4-d803-4b09-b517-a8a65faa8432" />
 
 **Interpretation:** Rental cost variability alone, before considering income, signals differences in housing pressure across unit types and metros.
