@@ -60,11 +60,11 @@ A  plot showing distributions of FMR values by bedroom count reveals:
 - Variability grows with larger units
 This highlights where rental market pressure is most pronounced.
 
-<img width="714" height="462" alt="Screenshot 2026-01-06 at 1 57 35 AM" src="https://github.com/user-attachments/assets/426650e3-c434-4497-bc49-3bc8fe409f61" />
+<img width="1200" height="800" alt="Screenshot 2026-01-06 at 1 57 35 AM" src="https://github.com/user-attachments/assets/426650e3-c434-4497-bc49-3bc8fe409f61" />
 
-<img width="714" height="462" alt="Screenshot 2026-01-06 at 1 57 23 AM" src="https://github.com/user-attachments/assets/0b639dd4-d803-4b09-b517-a8a65faa8432" />
+<img width="1200" height="800" alt="Screenshot 2026-01-06 at 1 57 23 AM" src="https://github.com/user-attachments/assets/0b639dd4-d803-4b09-b517-a8a65faa8432" />
 
-<img width="714" height="462" alt="High Rent Pressure Metros (Above 75th Percentile FMR)" src="https://github.com/user-attachments/assets/7df650c1-dcf7-4aa3-82ae-98c6048b98a8" />
+<img width="1200" height="800" alt="High Rent Pressure Metros (Above 75th Percentile FMR)" src="https://github.com/user-attachments/assets/7df650c1-dcf7-4aa3-82ae-98c6048b98a8" />
 
 **Interpretation:** Rental cost variability alone, before considering income, signals differences in housing pressure across unit types and metros.
 
@@ -74,7 +74,7 @@ This highlights where rental market pressure is most pronounced.
 
 To highlight markets with the highest rental pressure, we examine the top decile of metropolitan areas by Fair Market Rent for 2-bedroom units. Focusing on the 75th percentile and above reveals metros where benchmark rents are most elevated relative to the national distribution.
 
-<img width="759" height="456" alt="Screenshot 2026-01-06 at 3 42 25 AM" src="https://github.com/user-attachments/assets/f4139812-2b63-414e-8172-c63c696eafb8" />
+<img width="1200" height="800" alt="Screenshot 2026-01-06 at 3 42 25 AM" src="https://github.com/user-attachments/assets/f4139812-2b63-414e-8172-c63c696eafb8" />
 
 
 
